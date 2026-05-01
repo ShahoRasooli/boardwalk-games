@@ -1,4 +1,4 @@
-# Boardwalk Games
+# 🎲 Boardwalk Games
 
 This project was developed during the **Full Stack Web Development with AI** course at **WAES London**.
 
